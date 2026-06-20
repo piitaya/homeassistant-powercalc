@@ -7904,10 +7904,10 @@
           "max_power": 9.7,
           "sub_profile_count": 0,
           "color_modes": [
-            "effect",
-            "brightness"
+            "brightness",
+            "effect"
           ],
-          "hash": "6f2e1bc6071fea8f39976d7446c00abc"
+          "hash": "3377ec8d3229ca92e74192be0c086001"
         },
         {
           "aliases": [
@@ -17179,16 +17179,21 @@
           "min_voltage": 231.3,
           "name": "KAJPLATS E14 WS B38 CL 470lm",
           "standby_power": 0.2,
+          "author_info": {
+            "name": "Keysie",
+            "github": "keysie"
+          },
+          "author": "Keysie",
           "id": "LED2402C3",
           "manufacturer": "ikea",
-          "updated_at": "2026-06-19T06:13:16",
+          "updated_at": "2026-06-19T06:13:47",
           "max_power": 3.57,
           "sub_profile_count": 0,
           "color_modes": [
             "color_temp",
             "hs"
           ],
-          "hash": "9d049a080c0216546a5d31026ae137db"
+          "hash": "c845ee953e1e51690e958099986c7919"
         },
         {
           "aliases": [
